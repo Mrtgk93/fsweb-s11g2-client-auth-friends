@@ -9,7 +9,7 @@ import LogOut from "./LogOut";
 
 function App() {
   return (
-    <div className="App ">
+    <div className="App min-w-[900px]">
       <nav className="flex text-2xl font-bold flex-row  justify-between border-b-stone-900 border-4 p-2">
         <p className=" mt-4 font-extrabold">FRIENDS DATABASE</p>
 
